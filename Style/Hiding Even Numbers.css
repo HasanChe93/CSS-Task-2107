@@ -1,0 +1,30 @@
+/* .odd,.even{
+    background-color: red;
+    height: 50px;
+    width: 25%;
+    border: 1px solid black;
+    text-align: center;
+    color: azure;
+    float: left
+   
+
+}
+
+ */
+
+
+  .odd,.even {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: red;
+    width: 10%;
+    float: left;
+    border: 1px solid black;
+    margin: 5px;
+  }
+  .clear {
+    clear: both;}
+    .even{
+        display: none;
+    }

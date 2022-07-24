@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  padding: 0;
+
+}
+a{
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.hor{
+  background: darkgreen;
+}
+.hor:after{
+  content: '';
+  clear:both;
+  display: block;
+
+}
+.hor ul{
+  list-style: none;
+  margin: 0;
+}
+.hor > ul > li{
+  float: left;
+  position: relative;
+
+}
+.hor ul li a{
+  text-decoration: none;
+  color: rgb(248, 248, 131);
+  padding: 15px 20px;
+  display: block;}
+  .hor ul li:hover a{
+    background-color: darkgreen;
+  }
+ 
+ 
+
