@@ -1,25 +1,25 @@
-section{
-    border: 20px solid yellow;
-    height: 90vh;
-    text-align: center;
-    position: relative;
-    background-color: darkgreen;
+body{
     
+    
+    width:200px
+
 }
-.conT{
-    border: 20px solid yellow;
-    background-color: darkgreen;
-    max-width: 700px;
-    width: 100%;
-    /* margin: auto; */
-    height: 50vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: absolute;
-    right: 0;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    margin: auto;
+.fi{
+    background: darkgreen;
+    padding: 10px;
+  
+}
+.f1{
+   
+border: 5px solid gold;
+padding: 10px;
+}
+.f2{
+    border: 5px solid gold;
+}
+p{
+    padding: 50px;
+    padding-left:30px ;
+    text-align: center;
+    color: white;
 }
